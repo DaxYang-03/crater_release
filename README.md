@@ -1,3 +1,3 @@
-# crater_release
+# 陨石坑 Releases
 
-Binary release assets only. No application source code is published in this repository.
+这个仓库只用于公开发布 `陨石坑` 的二进制安装包，不包含应用源代码。
